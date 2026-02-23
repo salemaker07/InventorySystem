@@ -1,0 +1,14 @@
+/Users/salemaker/Desktop/c#/InventorySys_V2/bin/Debug/net10.0/InventorySys_V2
+/Users/salemaker/Desktop/c#/InventorySys_V2/bin/Debug/net10.0/InventorySys_V2.deps.json
+/Users/salemaker/Desktop/c#/InventorySys_V2/bin/Debug/net10.0/InventorySys_V2.runtimeconfig.json
+/Users/salemaker/Desktop/c#/InventorySys_V2/bin/Debug/net10.0/InventorySys_V2.dll
+/Users/salemaker/Desktop/c#/InventorySys_V2/bin/Debug/net10.0/InventorySys_V2.pdb
+/Users/salemaker/Desktop/c#/InventorySys_V2/obj/Debug/net10.0/InventorySys_V2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salemaker/Desktop/c#/InventorySys_V2/obj/Debug/net10.0/InventorySys_V2.AssemblyInfoInputs.cache
+/Users/salemaker/Desktop/c#/InventorySys_V2/obj/Debug/net10.0/InventorySys_V2.AssemblyInfo.cs
+/Users/salemaker/Desktop/c#/InventorySys_V2/obj/Debug/net10.0/InventorySys_V2.csproj.CoreCompileInputs.cache
+/Users/salemaker/Desktop/c#/InventorySys_V2/obj/Debug/net10.0/InventorySys_V2.dll
+/Users/salemaker/Desktop/c#/InventorySys_V2/obj/Debug/net10.0/refint/InventorySys_V2.dll
+/Users/salemaker/Desktop/c#/InventorySys_V2/obj/Debug/net10.0/InventorySys_V2.pdb
+/Users/salemaker/Desktop/c#/InventorySys_V2/obj/Debug/net10.0/InventorySys_V2.genruntimeconfig.cache
+/Users/salemaker/Desktop/c#/InventorySys_V2/obj/Debug/net10.0/ref/InventorySys_V2.dll
